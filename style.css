@@ -1,0 +1,145 @@
+.nav-item:hover {
+    background-color: gray;
+}
+
+
+/* debut header*/
+
+
+
+
+
+h1 {
+    font-size: 20px !important;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    color: white;
+    padding-right: 50px;
+}
+
+h3 {   
+    color: orangered;
+}
+
+
+
+#welcome {
+    background-image: url(/assets/elep.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    text-align: end;
+    
+    padding-top: 350px;
+}
+/* fin header*/
+
+/* alignement texte et titre */
+#leader, #gallery {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+}
+ .card {
+     text-align: center;
+     border: 0ch !important;
+ }
+#cont {
+    text-align: end;
+}
+#lorem, #lorem2 {
+    text-align: center;
+    padding-bottom: 50px;
+} 
+/* :::::::::::::::::::::::::: */
+
+/* couleur de texte et barre grise et verte et ligne marron */
+#client {
+    background-color: rgb(0, 48, 36);
+    height: 150px;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 550px;
+}
+
+.couleur {
+    color: orangered;
+}
+
+.couleur2 {
+    color: white;
+}
+
+.barre {
+    background-color: gray;
+    height: 30px;
+}
+
+hr {
+    color: brown !important;
+    height: 5px!important;
+    opacity: 100% !important;
+}
+
+/* :::::::::::::::::::::::::: */
+
+
+/* formulaire */
+
+
+#name {
+    margin-left: 55px;
+}
+
+form {
+    padding: 20px;
+    background-color: rgb(74, 149, 184);
+    width: 70% !important;
+    margin-bottom: 150px;
+    border-radius: 25px;
+}
+
+
+
+input {
+    border: 0px !important;
+    border-bottom: 1px solid black !important;
+    background-color: rgb(74, 149, 184) !important;
+    
+}
+
+.contact {
+    text-align: center;
+}
+/* :::::::::::::::::::::::::: */
+
+footer {
+    background-color: rgb(0, 48, 36);
+    height: 200px;
+}
+
+.carousel-inner {
+    display: flex;
+    margin-left: 25%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
